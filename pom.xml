@@ -7,7 +7,7 @@
 
 	<groupId>space.smarquardt</groupId>
 	<artifactId>7clicker</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<packaging>jar</packaging>
 
 	<name>7clicker</name>
